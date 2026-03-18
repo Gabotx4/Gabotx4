@@ -30,8 +30,6 @@
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![LoRaWAN](https://img.shields.io/badge/LoRaWAN-09BCE0?style=for-the-badge&logo=lora&logoColor=white)
 
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
