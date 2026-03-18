@@ -29,3 +29,10 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![LoRaWAN](https://img.shields.io/badge/LoRaWAN-09BCE0?style=for-the-badge&logo=lora&logoColor=white)
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Dazhlo&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Gabotx4)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Dazhlo&theme=material-palenight)](https://github.com/Gabotx4)
+</div>
