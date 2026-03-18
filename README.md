@@ -33,6 +33,9 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=Dazhlo&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Gabotx4)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Dazhlo&theme=material-palenight)](https://github.com/Gabotx4)
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Gabotx4&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Gabotx4)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Gabotx4&theme=material-palenight)](https://github.com/Gabotx4)
 </div>
