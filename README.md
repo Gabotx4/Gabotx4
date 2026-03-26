@@ -36,6 +36,4 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=Gabotx4&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Gabotx4)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Gabotx4&theme=material-palenight)](https://github.com/Gabotx4)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabotx4&show_icons=true&theme=tokyonight)](...)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gabotx4&theme=tokyo-night)](...)
 </div>
